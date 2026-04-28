@@ -1,4 +1,6 @@
 # cringe-neuro-translate
+Not even half-way done. To be continued...
+
 elevenlabs-alike purposely very poor translation EN --> RU pipeline. All models are working locally.
 
 ## List of used models:
