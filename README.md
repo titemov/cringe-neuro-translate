@@ -5,7 +5,8 @@ elevenlabs-alike purposely very poor translation EN --> RU pipeline. All models 
 
 ## List of used models:
 1. [Openai Whisper](https://github.com/openai/whisper) - Transcription
-2. [MarianMT](https://huggingface.co/docs/transformers/model_doc/marian) - Translation
+2. [nvidia/diar_sortformer_4spk-v1](https://huggingface.co/nvidia/diar_sortformer_4spk-v1) - Diarization
+3. [MarianMT](https://huggingface.co/docs/transformers/model_doc/marian) - Translation
 4. [rut5-base-absum](https://huggingface.co/cointegrated/rut5-base-absum) - Summarization
 5. [Chatterbox-multilingual](https://github.com/resemble-ai/chatterbox) - text-to-speech
 
